@@ -25,7 +25,7 @@ const config = {
     skype: '',
     telegram: '',
     website: 'https://anate.github.io/',
-    phone: '+91-9526364119',
+    phone: '',
     email: 'anate.maryaugustin@gmail.com',
   },
   resume: {
